@@ -1,0 +1,16 @@
+bibentry(bibtype = "Unpublished",
+         title        = "An efficient algorithm for sampling from sin^k(x) for generating random correlation matrices",
+         author       = c(person(given = "Enes",
+                                 family = "Makalic",
+                                 email = "emakalic@unimelb.edu.au"),
+                          person(given = "Daniel",
+                                 family = "Schmidt",
+                                 email = "daniel.schmidt@monash.edu")),
+         note         = "arXiv:1809.05212",
+
+         header       = "To cite randcorr in publications use:",
+         textVersion  =
+           paste("Enes Makalic and Daniel Schmidt (2016).",
+                 "An efficient algorithm for sampling from sin^k(x) for generating random correlation matrices",
+                 "arXiv:1809.05212")
+)
